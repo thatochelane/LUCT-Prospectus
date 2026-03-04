@@ -4,11 +4,11 @@
     "slug": "LUCT-Prospectus",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.jpg",
+    "icon": "./assets/Images/icon.jpg",
     "userInterfaceStyle": "dark",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/images/splash-icon.jpg",
+      "image": "./assets/Images/splash-icon.jpg",
       "resizeMode": "contain",
       "backgroundColor": "#0A0A0F"
     },
@@ -19,15 +19,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.jpg",
+        "foregroundImage": "./assets/Images/adaptive-icon.jpg",
         "backgroundColor": "#0A0A0F"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.anonymous.LUCTProspectus",
-      "icon": "./assets/images/icon.jpg"
-    },
-    "web": {
-      "favicon": "./assets/images/favicon.jpg"
+      "icon": "./assets/Images/icon.jpg"
     },
     "extra": {
       "eas": {
